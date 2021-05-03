@@ -4,6 +4,9 @@ This app was created using create-react-app. It was a practice in using componen
 ![gif-if-applicaiton](./public/react-chat-app.gif)
 [Link to Deployed App]()
 
+## Future Developement
+Add another account to see functionality from a second user's point of view. Allow login to create new user. Update gif to show this.
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
