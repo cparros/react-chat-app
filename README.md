@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+## React-Chat-App
+This app was created using create-react-app. It was a practice in using components, state, and hooks to create a real time messaging application. ChatEngine.io was used to speed up the creation process.
+
+![gif-if-applicaiton](./public/react-chat-app.gif)
+[Link to Deployed App]()
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
